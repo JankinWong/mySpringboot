@@ -1,0 +1,39 @@
+16:38:50.224 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+16:38:50.234 [main] INFO  c.e.demo.Application - [logStarting,55] - Starting Application using Java 1.8.0_282 on wangzhouandeMBP with PID 44095 (/Users/wzy/gitHub/mySpringboot/springbootLogback/target/classes started by wzy in /Users/wzy/gitHub/mySpringboot/springbootLogback)
+16:38:50.235 [main] INFO  c.e.demo.Application - [logStartupProfileInfo,634] - No active profile set, falling back to 1 default profile: "default"
+16:38:51.721 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8082"]
+16:38:51.722 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:38:51.722 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:38:51.801 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:38:52.797 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8082"]
+16:38:52.937 [main] INFO  c.e.demo.Application - [logStarted,61] - Started Application in 3.117 seconds (JVM running for 3.862)
+16:39:30.096 [http-nio-8082-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:41:28.312 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+16:41:28.312 [main] INFO  c.e.demo.Application - [logStarting,55] - Starting Application using Java 1.8.0_282 on wangzhouandeMBP with PID 44599 (/Users/wzy/gitHub/mySpringboot/springbootLogback/target/classes started by wzy in /Users/wzy/gitHub/mySpringboot/springbootLogback)
+16:41:28.316 [main] INFO  c.e.demo.Application - [logStartupProfileInfo,634] - No active profile set, falling back to 1 default profile: "default"
+16:41:29.579 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8082"]
+16:41:29.580 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:41:29.580 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:41:29.652 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:41:30.607 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8082"]
+16:41:30.742 [main] INFO  c.e.demo.Application - [logStarted,61] - Started Application in 2.779 seconds (JVM running for 3.402)
+16:41:47.728 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:47:40.732 [http-nio-8082-exec-8] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:47:40.859 [http-nio-8082-exec-8] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+16:49:41.974 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+16:49:41.981 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+16:49:46.694 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+16:49:46.702 [main] INFO  c.e.demo.Application - [logStarting,55] - Starting Application using Java 1.8.0_282 on wangzhouandeMBP with PID 46634 (/Users/wzy/gitHub/mySpringboot/springbootLogback/target/classes started by wzy in /Users/wzy/gitHub/mySpringboot/springbootLogback)
+16:49:46.703 [main] INFO  c.e.demo.Application - [logStartupProfileInfo,634] - No active profile set, falling back to 1 default profile: "default"
+16:49:48.101 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8082"]
+16:49:48.102 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:49:48.103 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:49:48.176 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:49:49.048 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8082"]
+16:49:49.181 [main] INFO  c.e.demo.Application - [logStarted,61] - Started Application in 2.905 seconds (JVM running for 3.629)
+16:50:27.776 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:50:27.808 [http-nio-8082-exec-1] INFO  c.e.d.c.BookController - [getBookByAuthor,71] - 按作者查找
+16:50:27.865 [http-nio-8082-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:50:27.998 [http-nio-8082-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+17:00:23.410 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+17:00:23.421 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
