@@ -1,0 +1,8 @@
+spring:
+  data:
+   neo4j:
+    username: neo4j
+    password: WZY920728wzy
+    uri: bolt://82.157.177.117:7687
+  #uri: http://192.168.211.133:7474
+  #uri: file:///target/graph.db
